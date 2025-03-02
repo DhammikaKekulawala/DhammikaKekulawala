@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Generative AI**
 
-- 👯 I’m looking to collaborate on **Artificial intelligence Projects** 
+- 👯 I’m looking to collaborate on **Artificial intelligence Projects**
 
 - 🤝 I’m looking for help with **Artificial intelligence**
 
